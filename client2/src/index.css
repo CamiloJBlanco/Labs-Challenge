@@ -1,0 +1,22 @@
+body {
+  font: 1.6rem Helvetica;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+.stock{
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+.condition{
+  font-size: 17px;
+}
