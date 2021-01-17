@@ -1,5 +1,14 @@
 # Labs-Challenge
 
+## Project built using:
+
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- Express.js
+
 The objective of the challenge is to build a Front-End and a Back-End that interact with an external API.
 
 I'm going to use Mercado Libre's public API. From it I will extract posts that I will then save to my own back-end using a cache. For the Fron-end I am going to develop a series of React Components to be able to display and interact with the mentioned publications.
